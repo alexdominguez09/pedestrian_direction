@@ -3,12 +3,14 @@ This software helps you to generate the dataset used in the published paper: "Pe
 
 <img src="https://github.com/alexdominguez09/pedestrian_direction/blob/master/dataset_diagram.png">
 
-
+# Code
+The software is writenn in C++ under codeblocks 13. The project file is provided but is not required. You can use your own IDE or c++ favourite compiler.
+This code assumes it has opencv 2.4 installed.
 This program extract and saves images from a given video.
 The extracted images are pedestrian moving to right, left or front.
 It is based in HOG to detect a pedestrian, and optical flow to detect the pedestrian is moving.
 It then saves all or some of the images in the process.
-This code assumes it has opencv 2.4 installed.
+
 
 Once you have your own dataset created, you will need to train a network with it for 3 different classes: front, letf and right. A small network can be trained for that. See the paper for full details.
 
