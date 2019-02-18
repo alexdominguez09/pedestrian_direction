@@ -1,7 +1,7 @@
 # Pedestrian Movement Direction Recognition Using Convolutional Neural Networks
 This software helps you to generate the dataset used in the publishe paper: "Pedestrian Movement Direction Recognition Using Convolutional Neural Networks"
 
-https://github.com/alexdominguez09/pedestrian_direction/dataset_diagram.png
+https://github.com/alexdominguez09/pedestrian_direction/blob/master/dataset_diagram.png
 
 
 This program extract and saves images from a given video.
