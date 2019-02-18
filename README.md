@@ -1,5 +1,8 @@
 # Pedestrian Movement Direction Recognition Using Convolutional Neural Networks
 This software helps you to generate the dataset used in the publishe paper: "Pedestrian Movement Direction Recognition Using Convolutional Neural Networks"
+
+<img src="https://github.com/alexdominguez09/pedestrian_direction/dataset_diagram.png">
+
 This program extract and saves images from a given video.
 The extracted are pedestrian moving to right, left or front.
 It is based in HOG to detect a pedestrian, and optical flow to detect the pedestrian is moving.
