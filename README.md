@@ -14,7 +14,9 @@ Once you have your own dataset created, you will need to train a network with it
 
 # Cited in
 A. Dominguez-Sanchez, M. Cazorla and S. Orts-Escolano, "Pedestrian Movement Direction Recognition Using Convolutional Neural Networks," in IEEE Transactions on Intelligent Transportation Systems, vol. 18, no. 12, pp. 3540-3548, Dec. 2017.
-doi: 10.1109/TITS.2017.2726140Retrieved from [https://arxiv.org/abs/1704.03952](https://arxiv.org/pdf/1704.03952.pdf)
+
+doi: 10.1109/TITS.2017.2726140
+Retrieved from [https://arxiv.org/abs/1704.03952](https://arxiv.org/pdf/1704.03952.pdf)
 
 # Paper published in
 
